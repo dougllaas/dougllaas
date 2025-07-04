@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Fernandes
 
-💻 Desenvolvedor Full Stack com mais de 10 anos de experiência em soluções web, SaaS e Blockchain.
+💻 Desenvolvedor Full Stack com mais de 5 anos de experiência em soluções web, SaaS e Blockchain.
 
 ---
 
@@ -19,7 +19,7 @@
 - WordPress avançado  
 
 🧰 **Experiência Profissional**
-- Mais de 10 anos como desenvolvedor full stack  
+- Mais de 5 anos como desenvolvedor full stack  
 - Foco em performance, segurança e escalabilidade  
 - Entregas com qualidade de código e experiência do usuário  
 
